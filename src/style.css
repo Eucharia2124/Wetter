@@ -19,20 +19,20 @@ header {
     border-bottom: 1px solid #f9f7fe;
     padding: 0 0 30px 0;
 }
-.search-form-inut {
+.search-form-input {
     background-color: #f9f7fe;
     border: none;
-    border-radius: 8px;
+    border-radius: 6px;
     width: 80%;
     font-size: 16px;
     padding: 15px 20px;
 }
 .search-form-button {
-    background-color: #4a2c91;
+    background-color: #885df1;
     color: white;
     border: none;
     margin-left: 5px;
-    border-radius: 8px;
+    border-radius: 6px;
     padding: 15px 30px;
     font-size: 16px;
     cursor: pointer;
